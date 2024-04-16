@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "efa430355ddfd0d3",
+        "id": "18558996bdbb13b3",
         "type": "tabs",
         "children": [
           {
-            "id": "bece1d44ee379aaf",
+            "id": "f022be07f4fbebba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Trabajo de Diagnostico.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Trabajo de Diagnostico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Trabajo de Diagnostico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Trabajo de Diagnostico.md"
+              }
             }
           }
         ]
@@ -130,14 +138,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo canvas": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bece1d44ee379aaf",
-  "lastOpenFiles": []
+  "active": "f022be07f4fbebba",
+  "lastOpenFiles": [
+    "Apunte/Intro.md",
+    "Apunte/Bolilla 3",
+    "Apunte/Bolilla 2",
+    "Apunte/Bolilla 1"
+  ]
 }
