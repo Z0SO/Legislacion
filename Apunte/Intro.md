@@ -20,7 +20,7 @@ Lo mismo que persona humana, que sepamos que la persona jurídica también tiene
 
 ### Ver lo siguiente:
 **Persona humana** 
-- [ ] Si hay o no concepto
+- [x] Si hay o no concepto
 - [ ] Cuando comienza la existencia
 - [ ] Cuando adquiero derechos como persona, 
 - [ ] Atributos de las persona (***importantísimo***)
@@ -32,21 +32,22 @@ Lo mismo que persona humana, que sepamos que la persona jurídica también tiene
 - [ ] Ver patrimonio.
 
 **Ley**
-- [ ] Ver qué entendemos por ley
+- [x] Ver qué entendemos por ley
 - [ ] La interpretación del nuevo código
-- [ ] Ver lo de sentido amplio y sentido estricto, *NO ver la clasificación de las leyes*
-- [ ] Ver proceso de formación de las leyes (*importantísimo*), *NO ver efectos de la ley*
+- [x] Ver lo de sentido amplio y sentido estricto, *NO ver la clasificación de las leyes*
+- [x] Ver proceso de formación de las leyes (*importantísimo*), *NO ver efectos de la ley*
 - [ ] Ver efectos de la ley con relación al tiempo 
-- [ ] Ver principio de inexcusabilidad de la ley
-- [ ] Ver irrectoavidad de la ley.
+- [x] Ver principio de inexcusabilidad de la ley
+- [x] Ver irrectoavidad de la ley.
 
 **Derecho**
-- [ ] Ver qué es derecho
-- [ ] ver derecho objetivo y subjetivo
-- [ ] Derecho público y privado
-- [ ] Diferencia entre normas religiosas sociales, morales y jurídicas
-- [ ] Ver derecho natural y positivo (*importantísimo*), naturalismo, *NO ver las ramas del derecho positivo*
-- [ ] Ver que es la constitución
-- [ ] Que es una constitución
-- [ ] Como se divide
-- [ ] Que son los derechos, las garantías y las obligaciones que dice la constitución.
+- [x] Ver qué es derecho
+- [x] ver derecho objetivo y subjetivo
+- [x] Derecho público y privado
+- [x] Diferencia entre normas religiosas sociales, morales y jurídicas
+- [x] Ver derecho natural y positivo (*importantísimo*), naturalismo, *NO ver las ramas del derecho positivo*
+- [x] Ver que es la constitución
+- [x] Que es una constitución
+- [x] Como se divide
+- [x] Que son los derechos, las garantías y las obligaciones que dice la constitución.
+- [x] Enumere algun derecho constitucional.
