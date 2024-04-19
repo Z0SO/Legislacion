@@ -12,8 +12,8 @@
 
 ### Ver de Persona Jurídica:
 Lo mismo que persona humana, que sepamos que la persona jurídica también tiene un nacimiento, un desarrollo y también fallece, las personas jurídicas antes que jurídica es persona, por ende, tiene 4 atributos.
-- [ ] Ver definición del art 141 de persona jurídica.
-- [ ] Ver comienzo de la existencia de la persona humana y jurídica.
+- [x] Ver definición del art 141 de persona jurídica.
+- [x] Ver comienzo de la existencia de la persona humana y jurídica.
 - [ ] Ver acto constitutivo.
 - [ ] Ver personalidad diferenciada.
 - [ ] Ver personas jurídicas públicas y privadas. Cuáles serían personas jurídicas públicas y cuáles serían personas jurídicas privadas.
@@ -21,15 +21,15 @@ Lo mismo que persona humana, que sepamos que la persona jurídica también tiene
 ### Ver lo siguiente:
 **Persona humana** 
 - [x] Si hay o no concepto
-- [ ] Cuando comienza la existencia
-- [ ] Cuando adquiero derechos como persona, 
-- [ ] Atributos de las persona (***importantísimo***)
+- [x] Cuando comienza la existencia
+- [x] Cuando adquiero derechos como persona, 
+- [x] Atributos de las persona (***importantísimo***)
 - [ ] Capacidad de derecho y que es capacidad de hecho (*dar ejemplo*)
 - [ ] Ver quienes tienen incapacidad de ejercicio
-- [ ] El nombre (que es, como se divide, como se clasifica, sobrenombre, seudónimo, *NO ver cambio de nombre*)
-- [ ] Domicilio (características y clasificación que son tres: legal, real y contractual)
-- [ ] El estado
-- [ ] Ver patrimonio.
+- [x] El nombre (que es, como se divide, como se clasifica, sobrenombre, seudónimo, *NO ver cambio de nombre*)
+- [x] Domicilio (características y clasificación que son tres: legal, real y contractual)
+- [x] El estado
+- [x] Ver patrimonio.
 
 **Ley**
 - [x] Ver qué entendemos por ley

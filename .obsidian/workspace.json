@@ -6,59 +6,28 @@
       {
         "id": "45ea2f19510e584d",
         "type": "tabs",
-        "dimension": 53.61321403991741,
         "children": [
-          {
-            "id": "459c58b32e0cdcee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apunte/Bolilla 1/Derecho.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c5a50f07ef382d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apunte/Intro.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
           {
             "id": "c5c14990da6929fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apunte/Bolilla 3/Persona.md",
-                "mode": "source",
+                "file": "Apunte/Bolilla 3/Hecho Y Derecho Juridico.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "35debe02b0b36108",
-        "type": "tabs",
-        "dimension": 46.38678596008259,
-        "children": [
+          },
           {
-            "id": "4a58608c0d07356a",
+            "id": "8bc754822240b11f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Material/Legislacion-Parcial_1.pdf"
+                "file": "Apunte/Bolilla 3/Hecho Y Derecho Juridico.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -112,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cd15debf735cd8dc",
@@ -129,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apunte/Bolilla 3/Persona.md",
+                "file": "Apunte/Bolilla 3/Hecho Y Derecho Juridico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apunte/Bolilla 3/Persona.md",
+                "file": "Apunte/Bolilla 3/Hecho Y Derecho Juridico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apunte/Bolilla 3/Persona.md"
+                "file": "Apunte/Bolilla 3/Hecho Y Derecho Juridico.md"
               }
             }
           }
@@ -192,14 +160,17 @@
   },
   "active": "c5c14990da6929fe",
   "lastOpenFiles": [
-    "Material/Legislacion-Parcial_1.pdf",
+    "Apunte/Bolilla 3/Persona Juridica.md",
     "Apunte/Bolilla 3/Persona.md",
-    "Apunte/Intro.md",
+    "Apunte/Bolilla 3/Hecho Y Derecho Juridico.md",
+    "Apunte/Bolilla 1/Constitucion.md",
+    "Apunte/Bolilla 1/Derecho.md",
     "Apunte/Bolilla 2/Ley.md",
+    "Apunte/Intro.md",
+    "Horarios.md",
+    "Material/Legislacion-Parcial_1.pdf",
     "Apunte/Bolilla 3",
     "Apunte/Bolilla 2",
-    "Apunte/Bolilla 1/Derecho.md",
-    "Apunte/Bolilla 1/Constitucion.md",
     "Material",
     "Apunte/Bolilla 1",
     "Notas/Trabajo de Diagnostico.md",
