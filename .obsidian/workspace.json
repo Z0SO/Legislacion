@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5c14990da6929fe",
+            "id": "fb4637e25c8363bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apunte/Bolilla 3/Hecho Y Derecho Juridico.md",
+                "file": "Prompts.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bc754822240b11f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apunte/Bolilla 3/Hecho Y Derecho Juridico.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apunte/Bolilla 3/Hecho Y Derecho Juridico.md",
+                "file": "Prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apunte/Bolilla 3/Hecho Y Derecho Juridico.md",
+                "file": "Prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apunte/Bolilla 3/Hecho Y Derecho Juridico.md"
+                "file": "Prompts.md"
               }
             }
           }
@@ -158,8 +146,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c5c14990da6929fe",
+  "active": "fb4637e25c8363bb",
   "lastOpenFiles": [
+    "Apunte-Parcial_1/Bolilla 3/Persona.md",
+    "Apunte-Parcial_1/Bolilla 3/Persona Juridica.md",
+    "Apunte-Parcial_1/Bolilla 3/Hecho Y Derecho Juridico.md",
+    "Apunte-Parcial_1/Bolilla 2/Ley.md",
+    "Apunte-Parcial_1/Bolilla 1/Derecho.md",
+    "Apunte-Parcial_1/Bolilla 1/Constitucion.md",
+    "Apunte-Parcial_1/Intro.md",
+    "Apunte-Parcial_1/Bolilla 3",
+    "Apunte-Parcial_1/Bolilla 2",
+    "Apunte-Parcial_1/Bolilla 1",
+    "Apunte-Parcial_1",
+    "Apunte2/2do Parcial_Legislacion.pdf",
+    "Apunte-Parcial_2/Instrumentos Publicos y Privados.md",
+    "Apunte-Parcial_2/Contrato.md",
+    "Apunte-Parcial_2/Contrato - Elementos.md",
+    "Apunte-Parcial_2/2do Parcial_Legislacion.pdf",
+    "Apunte-Parcial_2",
+    "Apunte2/Contrato - Elementos.md",
+    "Apunte2/Contrato.md",
+    "Apunte2/Instrumentos Publicos y Privados.md",
+    "Prompts.md",
     "Apunte/Bolilla 3/Persona Juridica.md",
     "Apunte/Bolilla 3/Persona.md",
     "Apunte/Bolilla 3/Hecho Y Derecho Juridico.md",
@@ -171,11 +180,6 @@
     "Material/Legislacion-Parcial_1.pdf",
     "Apunte/Bolilla 3",
     "Apunte/Bolilla 2",
-    "Material",
-    "Apunte/Bolilla 1",
-    "Notas/Trabajo de Diagnostico.md",
-    "Apunte/Bolilla 3",
-    "Apunte/Bolilla 2",
-    "Apunte/Bolilla 1"
+    "Notas/Trabajo de Diagnostico.md"
   ]
 }
