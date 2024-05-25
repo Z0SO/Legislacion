@@ -1,6 +1,4 @@
 
-# Instrumentos Públicos y Privados
-
 ## Concepto de Instrumento
 
 Son básicamente documentos escritos que contienen una situación jurídica.

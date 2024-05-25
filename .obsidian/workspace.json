@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "45ea2f19510e584d",
+        "id": "b9d3ed5df5c7f2f4",
         "type": "tabs",
         "children": [
           {
-            "id": "fb4637e25c8363bb",
+            "id": "e6c03bb933a23d4e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Apunte-Parcial_2/Prueba.canvas",
+                "viewState": {
+                  "x": 2286.7608073680303,
+                  "y": 657.792576063518,
+                  "zoom": -2.8
+                }
+              }
+            }
+          },
+          {
+            "id": "fcfc06a90a7dd3c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompts.md",
+                "file": "Apunte-Parcial_2/Instrumentos Publicos y Privados.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prompts.md",
+                "file": "Apunte-Parcial_2/Prueba.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prompts.md",
+                "file": "Apunte-Parcial_2/Prueba.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompts.md"
+                "file": "Apunte-Parcial_2/Prueba.canvas"
               }
             }
           }
@@ -146,8 +161,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fb4637e25c8363bb",
+  "active": "e6c03bb933a23d4e",
   "lastOpenFiles": [
+    "Apunte-Parcial_2/Instrumentos Publicos y Privados.md",
+    "Apunte-Parcial_2/Prueba.canvas",
+    "Prompts.md",
     "Apunte-Parcial_1/Bolilla 3/Persona.md",
     "Apunte-Parcial_1/Bolilla 3/Persona Juridica.md",
     "Apunte-Parcial_1/Bolilla 3/Hecho Y Derecho Juridico.md",
@@ -160,7 +178,6 @@
     "Apunte-Parcial_1/Bolilla 1",
     "Apunte-Parcial_1",
     "Apunte2/2do Parcial_Legislacion.pdf",
-    "Apunte-Parcial_2/Instrumentos Publicos y Privados.md",
     "Apunte-Parcial_2/Contrato.md",
     "Apunte-Parcial_2/Contrato - Elementos.md",
     "Apunte-Parcial_2/2do Parcial_Legislacion.pdf",
@@ -168,7 +185,6 @@
     "Apunte2/Contrato - Elementos.md",
     "Apunte2/Contrato.md",
     "Apunte2/Instrumentos Publicos y Privados.md",
-    "Prompts.md",
     "Apunte/Bolilla 3/Persona Juridica.md",
     "Apunte/Bolilla 3/Persona.md",
     "Apunte/Bolilla 3/Hecho Y Derecho Juridico.md",
