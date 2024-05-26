@@ -267,7 +267,9 @@
 		{"id":"554ae37dc06efcf4","type":"text","text":"**Formales Relativos**","x":8336,"y":10305,"width":225,"height":50,"color":"5"},
 		{"id":"f90267203e784ddf","type":"text","text":"La falta de la forma impuesta por la ley causa la nulidad del contrato.","x":8640,"y":10146,"width":320,"height":99,"color":"6"},
 		{"id":"6f27cf1e75e59d79","type":"text","text":"La forma es exigida, pero su ausencia no causa nulidad. Sin embargo, impide la conclusión del contrato.","x":8640,"y":10270,"width":320,"height":120,"color":"6"},
-		{"id":"d6c1ba98fe9a32b8","type":"text","text":"# Parte 2 -  CONTRATO Y CLASIFICACION","x":5280,"y":1664,"width":481,"height":175,"color":"2"}
+		{"id":"d6c1ba98fe9a32b8","type":"text","text":"# Parte 2 -  CONTRATO Y CLASIFICACION","x":5280,"y":1664,"width":481,"height":175,"color":"2"},
+		{"id":"d404f87f5dc1133b","x":8760,"y":-3359,"width":360,"height":95,"type":"text","text":"**Principio**: Si las partes acuerdan cumplir el contrato, están obligadas a hacerlo."},
+		{"id":"1fe9524ad271e252","x":8760,"y":-3216,"width":375,"height":126,"type":"text","text":"**Modificaciones:** Sólo se permiten si fueron acordadas previamente por las partes o en situaciones específicas previstas por la ley."}
 	],
 	"edges":[
 		{"id":"13cd94dbd1e04c0b","fromNode":"f5105870175c3f81","fromSide":"right","toNode":"e09f343c85dc052b","toSide":"left","color":"3","label":"Concepto"},
@@ -532,6 +534,8 @@
 		{"id":"71ed48ecee39c643","fromNode":"4befe805c923761b","fromSide":"bottom","toNode":"554ae37dc06efcf4","toSide":"left","color":"5"},
 		{"id":"c228c5b34e8e5c25","fromNode":"4befe805c923761b","fromSide":"bottom","toNode":"5d1de2abb54e6c7f","toSide":"left","color":"5"},
 		{"id":"d6f5c42be2cbfd7b","fromNode":"554ae37dc06efcf4","fromSide":"right","toNode":"6f27cf1e75e59d79","toSide":"left","color":"5"},
-		{"id":"02ef9d927479f86f","fromNode":"5d1de2abb54e6c7f","fromSide":"right","toNode":"cb31b59c4ca4ccee","toSide":"left","color":"5"}
+		{"id":"02ef9d927479f86f","fromNode":"5d1de2abb54e6c7f","fromSide":"right","toNode":"cb31b59c4ca4ccee","toSide":"left","color":"5"},
+		{"id":"9b5deb2ecfd475d9","fromNode":"3c205d4d072bbc3f","fromSide":"right","toNode":"d404f87f5dc1133b","toSide":"left","color":"3"},
+		{"id":"2ebd2250c1430e17","fromNode":"3c205d4d072bbc3f","fromSide":"right","toNode":"1fe9524ad271e252","toSide":"left","color":"3"}
 	]
 }
