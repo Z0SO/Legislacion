@@ -11,24 +11,26 @@
 5. **De ejecución continuada (o "de duración")**: Se realiza una actividad en el tiempo que produce beneficios.
 6. **De organización**: Reglamenta las relaciones entre socios y las normas internas de la sociedad.
 
-## ELEMENTOS GENERALES
+Aquí tienes una versión más clara y fácil de estudiar:
 
-### CONSENTIMIENTO
-Es el acuerdo de los socios para celebrar el contrato de sociedad. En algunos casos, la sociedad puede ser conformada por obligatoriedad, como en el caso de herederos o quiebra. En sociedades unipersonales, esto no aplica, ya que solo se requiere la voluntad unipersonal.
+## ELEMENTOS GENERALES**
+
+### CONSENTIMIENTO: 
+Es el acuerdo entre los socios para formar la sociedad. En ciertos casos, la sociedad puede ser obligatoria, como en herencias o quiebras. En sociedades unipersonales, solo se necesita la voluntad de una persona.
 
 ### CAPACIDAD
-Se aplica lo establecido en el nuevo Código Civil y Comercial, con algunas excepciones:
-- Menores pueden participar si están emancipados.
-- Personas mayores de 16 que trabajan.
-- Personas con capacidades reducidas pueden tener responsabilidad limitada.
-- Martilleros pueden formar sociedades solo entre martilleros.
-- Sociedad de sociedades.
+Se rige por el nuevo Código Civil y Comercial, con excepciones como:
+- Menores emancipados.
+- Mayores de 16 que trabajan.
+- Personas con capacidades reducidas con responsabilidad limitada.
+- Martilleros pueden formar sociedades solo con otros martilleros.
+- Sociedades entre sociedades.
 
 ### OBJETO
-Incluye las prestaciones de dar y hacer que los socios se comprometen a efectuar. No se debe confundir con el objeto social, que se refiere a la categoría de actos a la que se dedicará la empresa (ej. compraventa de clavos).
+Son las cosas que los socios se comprometen a hacer o dar. No confundir con el objeto social, que es el tipo de actividades que realizará la empresa.
 
 ### CAUSA
-La finalidad de obtener ganancias a través de la actividad de la sociedad. La causa del contrato de sociedad es siempre la obtención de ganancias, y también soportar las pérdidas.
+El propósito de obtener ganancias a través de la actividad de la sociedad. Siempre es buscar ganancias y también aceptar pérdidas.
 
 ### FORMA
-El contrato debe otorgarse por instrumento público o privado para constituir una sociedad regular. Es imprescindible que el contrato sea en forma escrita.
+El contrato debe ser por escrito, ya sea público o privado, para formar una sociedad regular. Es esencial que esté documentado por escrito.

@@ -6,7 +6,6 @@
       {
         "id": "ea04c8506e092d7a",
         "type": "tabs",
-        "dimension": 69.59152798789712,
         "children": [
           {
             "id": "cf4987535f17c47a",
@@ -16,29 +15,10 @@
               "state": {
                 "file": "Apunte-Parcial_2/Esquema Parcial_2.canvas",
                 "viewState": {
-                  "x": 10357.823295334787,
-                  "y": -4936.116318483539,
-                  "zoom": -2.4000000000000004
+                  "x": 8883.918340622322,
+                  "y": 1258.0801481127492,
+                  "zoom": -4
                 }
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fdb240a8b91e94fb",
-        "type": "tabs",
-        "dimension": 30.408472012102873,
-        "children": [
-          {
-            "id": "25f7ae4e5eafb3b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apunte-Parcial_2/Parte 2/Contrato.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -92,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300.5
   },
   "right": {
     "id": "cd15debf735cd8dc",
@@ -171,16 +151,16 @@
   },
   "active": "cf4987535f17c47a",
   "lastOpenFiles": [
-    "Apunte-Parcial_2/Parte 2/Contrato.md",
-    "Apunte-Parcial_2/Esquema Parcial_2.canvas",
-    "Apunte-Parcial_2/Parte 2/Contrato - Elementos.md",
-    "Apunte-Parcial_2/Parte 3/2 CdS - Caracteres.md",
     "Apunte-Parcial_2/Parte 3/3 CdS - Elementos Especificos.md",
+    "Apunte-Parcial_2/Esquema Parcial_2.canvas",
+    "Apunte-Parcial_2/Parte 3/2 CdS - Caracteres.md",
     "Apunte-Parcial_2/Parte 3/1 - Sociedades.md",
+    "Apunte-Parcial_2/Parte 1/Instrumentos Publicos y Privados.md",
+    "Apunte-Parcial_2/Parte 2/Contrato.md",
+    "Apunte-Parcial_2/Parte 2/Contrato - Elementos.md",
     "Apunte-Parcial_2/Parte 3",
     "Apunte-Parcial_2/Parte 2",
     "Apunte-Parcial_2/Parte 1",
-    "Apunte-Parcial_2/Parte 1/Instrumentos Publicos y Privados.md",
     "Prompts.md",
     "Apunte-Parcial_1/Bolilla 3/Persona.md",
     "Apunte-Parcial_1/Bolilla 3/Persona Juridica.md",
