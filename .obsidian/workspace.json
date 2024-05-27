@@ -15,10 +15,34 @@
               "state": {
                 "file": "Apunte-Parcial_2/Esquema Parcial_2.canvas",
                 "viewState": {
-                  "x": 8883.918340622322,
-                  "y": 1258.0801481127492,
-                  "zoom": -4
+                  "x": 12018.229833399131,
+                  "y": -183.36756272764683,
+                  "zoom": -2.0000000000000004
                 }
+              }
+            }
+          },
+          {
+            "id": "2f848c498c058603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apunte-Parcial_2/Parte 2/Contrato - Elementos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0160a5d9504a5150",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apunte-Parcial_2/Parte 2/Contrato.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -149,15 +173,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cf4987535f17c47a",
+  "active": "69ad63ba2b262b32",
   "lastOpenFiles": [
-    "Apunte-Parcial_2/Parte 3/3 CdS - Elementos Especificos.md",
+    "Sin título 1.md",
     "Apunte-Parcial_2/Esquema Parcial_2.canvas",
+    "Apunte-Parcial_2/Parte 2/Contrato - Elementos.md",
+    "Apunte-Parcial_2/Parte 2/Contrato.md",
+    "Sin título.md",
+    "Apunte-Parcial_2/Parte 3/3 CdS - Elementos Especificos.md",
     "Apunte-Parcial_2/Parte 3/2 CdS - Caracteres.md",
     "Apunte-Parcial_2/Parte 3/1 - Sociedades.md",
     "Apunte-Parcial_2/Parte 1/Instrumentos Publicos y Privados.md",
-    "Apunte-Parcial_2/Parte 2/Contrato.md",
-    "Apunte-Parcial_2/Parte 2/Contrato - Elementos.md",
     "Apunte-Parcial_2/Parte 3",
     "Apunte-Parcial_2/Parte 2",
     "Apunte-Parcial_2/Parte 1",
@@ -184,8 +210,6 @@
     "Apunte/Bolilla 3/Hecho Y Derecho Juridico.md",
     "Apunte/Bolilla 1/Constitucion.md",
     "Apunte/Bolilla 1/Derecho.md",
-    "Apunte/Bolilla 2/Ley.md",
-    "Apunte/Intro.md",
-    "Horarios.md"
+    "Apunte/Bolilla 2/Ley.md"
   ]
 }
