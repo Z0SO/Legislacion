@@ -15,9 +15,9 @@
               "state": {
                 "file": "Apunte-Parcial_2/Esquema Parcial_2.canvas",
                 "viewState": {
-                  "x": 12018.229833399131,
-                  "y": -183.36756272764683,
-                  "zoom": -2.0000000000000004
+                  "x": 11879.938849647262,
+                  "y": 6258.43458778043,
+                  "zoom": -0.8000000000000006
                 }
               }
             }
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "cd15debf735cd8dc",
@@ -173,7 +174,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "69ad63ba2b262b32",
+  "active": "cf4987535f17c47a",
   "lastOpenFiles": [
     "Sin título 1.md",
     "Apunte-Parcial_2/Esquema Parcial_2.canvas",
