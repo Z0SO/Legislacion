@@ -10,8 +10,9 @@
 - Sigue las instrucciones en pantalla para completar la instalación de Obsidian en tu sistema.
 
 ## Paso 3: Abrir la Carpeta Descomprimida como Bóveda
-
 - Después de instalar Obsidian, ve a la carpeta donde se descargó el archivo comprimido desde GitHub.
+- Tambien puedes clonar este repositorio.
+- Si deseas colaborar en este proyecto puedes contactarte conmigo o enviar un correo a `lautarorobales31@gmail.com` proporcionandome tu usuario de GitHub o tu e-mail.
 
 ![Pasted image 20240418232430](https://github.com/Z0SO/things/assets/109922256/d7928e9d-1614-43fe-bffd-53def2758426)
 
@@ -24,7 +25,8 @@
 - Navega hasta la carpeta descomprimida y selecciónala.
 - Haz clic en "Seleccionar carpeta".
 
-¡Listo! Ahora tienes Obsidian configurado con la carpeta descomprimida como boveda de apuntes de legislacion.
+¡Listo! Ahora tienes Obsidian configurado con la carpeta descomprimida como boveda de apuntes de `Legislación`.
+
 
 ---
 
@@ -40,9 +42,6 @@
 |               | 18:10<br>22:40 | Diseño de Sistemas de Información |
 | **Jueves**    | 18:55<br>21:55 | Investigación Operativa           |
 | **Viernes**   | 18:55<br>21:55 | Investigación Operativa           |
-
-
-
 
 
 ---
