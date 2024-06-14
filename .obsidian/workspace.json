@@ -15,9 +15,9 @@
               "state": {
                 "file": "Apunte-Parcial_2/Esquema Parcial_2.canvas",
                 "viewState": {
-                  "x": 2007.249917653235,
-                  "y": 1925.0693666125683,
-                  "zoom": -2.500000000000001
+                  "x": 16507.127501067902,
+                  "y": 4696.987478780986,
+                  "zoom": -1.2
                 }
               }
             }
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "cd15debf735cd8dc",
