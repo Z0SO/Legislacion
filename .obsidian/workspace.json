@@ -8,16 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "710692c7181238cb",
+            "id": "618060896c51ebde",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Apunte-Parcial_3/Esquema Para parcial.canvas",
                 "viewState": {
-                  "x": 3958,
-                  "y": 1128.5,
-                  "zoom": -3.4359523736094157
+                  "x": 1903.2206969781396,
+                  "y": -1839.1506896291332,
+                  "zoom": -0.5999999999999999
                 }
               }
             }
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "27ba1b982af612fa",
@@ -149,8 +150,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "901808eda1a6a111",
+  "active": "618060896c51ebde",
   "lastOpenFiles": [
+    "Apunte-Parcial_3/4-LEY DE LOS INGENIEROS/0-Resumen.md",
+    "Apunte-Parcial_3/Esquema Para parcial.canvas",
+    "Apunte-Parcial_3/Indice.md",
+    "Apunte-Parcial_3/4-LEY DE LOS INGENIEROS/4-Derechos de los Profesionales Matriculados.md",
     "Apunte-Parcial_3/2-DERECHO LABORAL/1-Concepto de Trabajo.md",
     "Apunte-Parcial_3/1-LICITACIONES/1-Concepto de Licitacion.md",
     "Apunte-Parcial_3/1-LICITACIONES/3-Proceso de Licitacion Publica.md",
@@ -160,13 +165,9 @@
     "Apunte-Parcial_3/3-PERICIAL/2-Deberes y Derechos del Perito.md",
     "Apunte-Parcial_3/3-PERICIAL/3-Dictamen Pericial.md",
     "Apunte-Parcial_3/3-PERICIAL/4-Valoracion de la Prueba.md",
-    "Apunte-Parcial_3/4-LEY DE LOS INGENIEROS/0-Resumen.md",
     "Apunte-Parcial_3/4-LEY DE LOS INGENIEROS/1-Ejercicio Profesional.md",
-    "Apunte-Parcial_3/Esquema Para parcial.canvas",
     "Apunte-Parcial_3/1-LICITACIONES/2-Tipos de Licitacion.md",
-    "Apunte-Parcial_3/Indice.md",
     "README.md",
-    "Apunte-Parcial_3/4-LEY DE LOS INGENIEROS/4-Deerechos de los Profesionales Matriculados.md",
     "Apunte-Parcial_3/4-LEY DE LOS INGENIEROS/3-Deberes de los Profesionales Matriculados.md",
     "Apunte-Parcial_3/4-LEY DE LOS INGENIEROS/2-Inhabilitaciones y Sanciones.md",
     "Apunte-Parcial_3/3-PERICIAL",
