@@ -4,25 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "6845c7d4998deff0",
+        "id": "1ac9bbe91ea2e6f4",
         "type": "tabs",
         "children": [
           {
-            "id": "618060896c51ebde",
+            "id": "261421ff1a0eaa36",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Apunte-Parcial_3/Esquema Para parcial.canvas",
                 "viewState": {
-                  "x": 1903.2206969781396,
-                  "y": -1839.1506896291332,
-                  "zoom": -0.5999999999999999
+                  "x": -2917.030332382543,
+                  "y": -1635.5921476483475,
+                  "zoom": -5.551115123125783e-16
                 }
               }
             }
+          },
+          {
+            "id": "8b12e3f25f1fa5ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apunte-Parcial_3/0-CONTRATOS ADMINISTRATIVOS/1-Contratos Administrativos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
+    "width": 276.5,
     "collapsed": true
   },
   "right": {
@@ -150,15 +163,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "618060896c51ebde",
+  "active": "261421ff1a0eaa36",
   "lastOpenFiles": [
-    "Apunte-Parcial_3/4-LEY DE LOS INGENIEROS/0-Resumen.md",
+    "Apunte-Parcial_3/0-CONTRATOS ADMINISTRATIVOS/1-Contratos Administrativos.md",
+    "Apunte-Parcial_3/0-CONTRATOS ADMINISTRATIVOS/4-Forma de elegir al contratante (o al contratista).md",
     "Apunte-Parcial_3/Esquema Para parcial.canvas",
+    "Apunte-Parcial_3/Resumen Tercer Parcial Legislación.pdf",
+    "Apunte-Parcial_3/0-CONTRATOS ADMINISTRATIVOS/esquema4.canvas",
+    "Apunte-Parcial_3/0-CONTRATOS ADMINISTRATIVOS/3-Elementos del Contrato Administrativo.md",
+    "Apunte-Parcial_3/0-CONTRATOS ADMINISTRATIVOS/Esquema-0.canvas",
+    "Apunte-Parcial_3/0-CONTRATOS ADMINISTRATIVOS/Esquema-1.canvas",
+    "Apunte-Parcial_3/0-CONTRATOS ADMINISTRATIVOS/Esquema-3.canvas",
+    "Apunte-Parcial_3/0-CONTRATOS ADMINISTRATIVOS/2-Características Especiales.md",
+    "Apunte-Parcial_3/0-CONTRATOS ADMINISTRATIVOS/Sin título.md",
+    "Apunte-Parcial_3/0-CONTRATOS ADMINISTRATIVOS",
     "Apunte-Parcial_3/Indice.md",
+    "Apunte-Parcial_3/1-LICITACIONES/1-Concepto de Licitacion.md",
+    "Apunte-Parcial_3/Resumen Tercer Parcial Legislación.pdf.download",
+    "Apunte-Parcial_3/1-LICITACIONES/2-Tipos de Licitacion.md",
+    "Apunte-Parcial_3/1-LICITACIONES/3-Proceso de Licitacion Publica.md",
+    "Apunte-Parcial_3/4-LEY DE LOS INGENIEROS/0-Resumen.md",
     "Apunte-Parcial_3/4-LEY DE LOS INGENIEROS/4-Derechos de los Profesionales Matriculados.md",
     "Apunte-Parcial_3/2-DERECHO LABORAL/1-Concepto de Trabajo.md",
-    "Apunte-Parcial_3/1-LICITACIONES/1-Concepto de Licitacion.md",
-    "Apunte-Parcial_3/1-LICITACIONES/3-Proceso de Licitacion Publica.md",
     "Apunte-Parcial_3/2-DERECHO LABORAL/2-Tipos de Contrato de Trabajo.md",
     "Apunte-Parcial_3/2-DERECHO LABORAL/3-Relacion Laboral y de Dependencia.md",
     "Apunte-Parcial_3/2-DERECHO LABORAL/4-Deberes y Derechos del Empleador.md",
@@ -166,7 +192,6 @@
     "Apunte-Parcial_3/3-PERICIAL/3-Dictamen Pericial.md",
     "Apunte-Parcial_3/3-PERICIAL/4-Valoracion de la Prueba.md",
     "Apunte-Parcial_3/4-LEY DE LOS INGENIEROS/1-Ejercicio Profesional.md",
-    "Apunte-Parcial_3/1-LICITACIONES/2-Tipos de Licitacion.md",
     "README.md",
     "Apunte-Parcial_3/4-LEY DE LOS INGENIEROS/3-Deberes de los Profesionales Matriculados.md",
     "Apunte-Parcial_3/4-LEY DE LOS INGENIEROS/2-Inhabilitaciones y Sanciones.md",
